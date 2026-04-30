@@ -29,7 +29,7 @@ dashboards/dashboards/*.json
 | `OS/` | Node, CPU, memory, disk, network, NUMA, processes |
 | `Valkey/` | Valkey/Redis clients, cluster, memory, replication, slowlog |
 | `Insight/` | Home Dashboard, Advanced Data Exploration, VictoriaMetrics, Exporters |
-| `Experimental/` | Environment, DB Cluster, PMM Health, PostgreSQL Vacuum |
+| `Experimental/` | Environment overview, DB cluster summary, PMM health, HA health, databases overview |
 | `Query Analytics/` | QAN panel wrapper (`pmm-qan.json`) |
 | `Kubernetes (experimental)/` | Kubernetes operator monitoring |
 
