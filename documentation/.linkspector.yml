@@ -8,7 +8,6 @@ aliveStatusCodes:
     - 429  # Treat rate limiting as "alive" to avoid CI failures
 
 ignorePatterns:
-  - pattern: "^https://documentation\\.ubuntu\\.com/server/how-to/security/install-a-root-ca-certificate-in-the-trust-store/"
   - pattern: "^https://www.reddit.com/r/VictoriaMetrics/"
   - pattern: "^https://linux.die.net/man/8/logrotate"
   - pattern: "^https://pmmdemo.percona.com"
