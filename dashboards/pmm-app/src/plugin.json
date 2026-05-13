@@ -289,12 +289,7 @@
     },
     {
       "type": "dashboard",
-      "name": "Environment Summary",
-      "path": "dashboards/Experimental/Environment_Summary.json"
-    },
-    {
-      "type": "dashboard",
-      "name": "Environment Overview",
+      "name": "Environments Overview",
       "path": "dashboards/PMM Health/Environments_Overview.json"
     },
     {
